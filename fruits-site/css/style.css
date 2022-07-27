@@ -1,0 +1,62 @@
+.maindiv {
+    margin: auto;
+    border: 1px solid #000;
+    width: 415px;
+    height: 420px;
+    
+}
+
+.titles {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+
+.fruit{
+    margin: auto 50px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: rgb(231, 175, 106);
+}
+
+.meva {
+    margin: auto 50px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: greenyellow;
+}
+
+.fruitpart {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.fruitcont {
+    margin: 5px 10px;
+}
+
+.imgfruit {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 0px;
+}
+.fruitname {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.mevanomi {
+    margin-top: 3px;
+    margin-bottom: 0px;
+    font-weight: 100;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
